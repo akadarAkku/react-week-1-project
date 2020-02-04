@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/akadarAkku/wheather-app-gh-page/static/css/main.b738ce0a.chunk.css",
-    "main.js": "/akadarAkku/wheather-app-gh-page/static/js/main.f0c3dde3.chunk.js",
-    "main.js.map": "/akadarAkku/wheather-app-gh-page/static/js/main.f0c3dde3.chunk.js.map",
-    "runtime-main.js": "/akadarAkku/wheather-app-gh-page/static/js/runtime-main.3fb88d99.js",
-    "runtime-main.js.map": "/akadarAkku/wheather-app-gh-page/static/js/runtime-main.3fb88d99.js.map",
-    "static/css/2.9c5c8087.chunk.css": "/akadarAkku/wheather-app-gh-page/static/css/2.9c5c8087.chunk.css",
-    "static/js/2.25bac13b.chunk.js": "/akadarAkku/wheather-app-gh-page/static/js/2.25bac13b.chunk.js",
-    "static/js/2.25bac13b.chunk.js.map": "/akadarAkku/wheather-app-gh-page/static/js/2.25bac13b.chunk.js.map",
-    "index.html": "/akadarAkku/wheather-app-gh-page/index.html",
-    "precache-manifest.a5f0de617b350966487b083b5cf8e703.js": "/akadarAkku/wheather-app-gh-page/precache-manifest.a5f0de617b350966487b083b5cf8e703.js",
-    "service-worker.js": "/akadarAkku/wheather-app-gh-page/service-worker.js",
-    "static/css/2.9c5c8087.chunk.css.map": "/akadarAkku/wheather-app-gh-page/static/css/2.9c5c8087.chunk.css.map",
-    "static/css/main.b738ce0a.chunk.css.map": "/akadarAkku/wheather-app-gh-page/static/css/main.b738ce0a.chunk.css.map",
-    "static/js/2.25bac13b.chunk.js.LICENSE.txt": "/akadarAkku/wheather-app-gh-page/static/js/2.25bac13b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/akadarAkku/wheather-app-gh-page/static/media/bg.b6796c73.jpg",
-    "static/media/bootstrap.min.css": "/akadarAkku/wheather-app-gh-page/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/wheather-app-gh-page/static/css/main.7c3e1ddc.chunk.css",
+    "main.js": "/wheather-app-gh-page/static/js/main.3383b0fa.chunk.js",
+    "main.js.map": "/wheather-app-gh-page/static/js/main.3383b0fa.chunk.js.map",
+    "runtime-main.js": "/wheather-app-gh-page/static/js/runtime-main.7e10b49b.js",
+    "runtime-main.js.map": "/wheather-app-gh-page/static/js/runtime-main.7e10b49b.js.map",
+    "static/css/2.58bd9c29.chunk.css": "/wheather-app-gh-page/static/css/2.58bd9c29.chunk.css",
+    "static/js/2.25bac13b.chunk.js": "/wheather-app-gh-page/static/js/2.25bac13b.chunk.js",
+    "static/js/2.25bac13b.chunk.js.map": "/wheather-app-gh-page/static/js/2.25bac13b.chunk.js.map",
+    "index.html": "/wheather-app-gh-page/index.html",
+    "precache-manifest.d6ad1448cc10fbe47e171eaabbd7c7e3.js": "/wheather-app-gh-page/precache-manifest.d6ad1448cc10fbe47e171eaabbd7c7e3.js",
+    "service-worker.js": "/wheather-app-gh-page/service-worker.js",
+    "static/css/2.58bd9c29.chunk.css.map": "/wheather-app-gh-page/static/css/2.58bd9c29.chunk.css.map",
+    "static/css/main.7c3e1ddc.chunk.css.map": "/wheather-app-gh-page/static/css/main.7c3e1ddc.chunk.css.map",
+    "static/js/2.25bac13b.chunk.js.LICENSE.txt": "/wheather-app-gh-page/static/js/2.25bac13b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wheather-app-gh-page/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/wheather-app-gh-page/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fb88d99.js",
-    "static/css/2.9c5c8087.chunk.css",
+    "static/js/runtime-main.7e10b49b.js",
+    "static/css/2.58bd9c29.chunk.css",
     "static/js/2.25bac13b.chunk.js",
-    "static/css/main.b738ce0a.chunk.css",
-    "static/js/main.f0c3dde3.chunk.js"
+    "static/css/main.7c3e1ddc.chunk.css",
+    "static/js/main.3383b0fa.chunk.js"
   ]
 }
